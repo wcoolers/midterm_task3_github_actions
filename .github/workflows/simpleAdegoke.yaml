@@ -15,4 +15,4 @@ jobs:
       - name: Display greeting
         run: echo Hello from GitHub Actions!
       - name: Custom debug message
-        run: Debugging by Adegoke Akanbi, a test action!
+        run: echo Debugging by Adegoke Akanbi, a test action!
